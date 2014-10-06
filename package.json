@@ -1,0 +1,9 @@
+{
+  "name": "sc-random",
+  "version": "1.0.0",
+  "description": "Random generator same as SuperCollider",
+  "scripts": {
+    "test": "node test/random.js"
+  },
+  "main": "random.js"
+}
