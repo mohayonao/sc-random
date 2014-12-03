@@ -1,0 +1,21 @@
+{
+  "name": "sc-random",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mohayonao/sc-random",
+  "authors": [
+    "mohayonao <mohayonao@gmail.com>"
+  ],
+  "description": "Random generator same as SuperCollider",
+  "main": "random.js",
+  "keywords": [
+    "random",
+    "seed"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}

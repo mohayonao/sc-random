@@ -1,4 +1,5 @@
 # sc-random
+[![Bower](https://img.shields.io/bower/v/sc-random.svg?style=flat)](https://github.com/mohayonao/sc-random)
 [![NPM Version](http://img.shields.io/npm/v/sc-random.svg?style=flat)](https://www.npmjs.org/package/sc-random)
 
 Random generator same as SuperCollider
